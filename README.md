@@ -36,11 +36,13 @@ Para isso, foi utilizado um Arduino Uno para simular o monitoramento da qualidad
 
 O projeto foi desenvolvido utilizando a plataforma TinkerCad para a montagem do esquema e para a codificação. O projeto será validado em aula no dia 25/09/2023 pelo professor responsável.
 
-## Video Explicativo do Projeto
+## Código Fonte
+
+Link para o simulador: https://www.tinkercad.com/things/2XNXqyUaB2D?sharecode=UwRmRbOulcVeZPx3wzHtfQM9jAolGWR98SOA_bf-rWU
+
+### Video Explicativo do Projeto
 
 [![Checkpoint: EDGE COMPUTING & COMPUTER SYSTEMS](https://img.youtube.com/vi/H7kYg070sKw/0.jpg)](https://www.youtube.com/watch?v=H7kYg070sKw "Everything Is AWESOME")
-
-<p>Link para o simulador: https://www.tinkercad.com/things/2XNXqyUaB2D?sharecode=UwRmRbOulcVeZPx3wzHtfQM9jAolGWR98SOA_bf-rWU</p>
 
 ## Desenvolvedores
 
